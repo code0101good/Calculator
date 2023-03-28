@@ -1,0 +1,10 @@
+Building a calculator 
+
+first have two inputs to enter the mumber .eg: 'num1' & 'num2'
+
+use 'input()' method for the numbers.
+
+specify the operation through input method. ONly using $ for now(+, -, *, /)
+
+use if else condition for the operators.
+

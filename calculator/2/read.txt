@@ -1,0 +1,1 @@
+In this the calculator the number and operator are entered through input methods.
